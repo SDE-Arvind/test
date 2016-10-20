@@ -20,7 +20,7 @@ public class ExpendableList extends AppCompatActivity {
         el.setAdapter(adapter);
 
     }
-
+//fdfdgfhbgfhggfgvf
     private ArrayList<Team> getData() {
 
         Team t1 = new Team("india");
